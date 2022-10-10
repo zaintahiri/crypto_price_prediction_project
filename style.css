@@ -1,0 +1,24 @@
+.header{
+	text-align:center;
+	font-family:verdana, Geneva,Tahoma, sans-serif;
+}
+.myTable{
+	text-align:left;
+	border-collapse:collapse;
+	margin:25px 0;
+	font-size:0.9em;
+	width:80%;
+	box-shadow:0 0 20px rgba(0,0,0,0.15);
+	
+}
+
+.myTable thead tr{
+	background-color:#009879;
+	color:white;	
+}
+.myTable td,th{
+	padding:12px 15px;
+}
+.myTable tbody tr{
+	border-bottom:solid 1px silver;
+}
